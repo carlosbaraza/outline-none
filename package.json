@@ -4,7 +4,7 @@
   "repository": {
     "url": "https://github.com/carlosbaraza/outline-none"
   },
-  "description": "outline:none in an accessible way",
+  "description": "outline:none in an accessible way. Remove outline from button and a tags, unless the user press the tab key.",
   "main": "index.js",
   "scripts": {},
   "author": "Carlos Baraza",
