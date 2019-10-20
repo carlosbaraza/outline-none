@@ -1,0 +1,12 @@
+{
+  "name": "outline-none",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/carlosbaraza/outline-none"
+  },
+  "description": "outline:none in an accessible way",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Carlos Baraza",
+  "license": "ISC"
+}
