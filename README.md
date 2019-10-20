@@ -1,3 +1,5 @@
+![outline:none in an accessible way](./docs/header.png)
+
 # outline:none in an accessible way
 
 Remove outline from `button` and `a`, unless the user press the `tab` key.
